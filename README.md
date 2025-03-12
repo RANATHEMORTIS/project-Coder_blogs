@@ -14,7 +14,7 @@
 
 ## 🏗️ Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript, React.js
--   - **Framework:** Tailwind css 
+- **Framework:** Tailwind css 
 - **Hosting:** Netlify  
 
 ## 📚 Blog Categories  
