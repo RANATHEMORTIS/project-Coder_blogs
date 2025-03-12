@@ -13,7 +13,8 @@
 - 🚀 Well-researched and beginner-friendly blogs  
 
 ## 🏗️ Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** HTML, CSS, JavaScript, React.js
+-   - **Framework:** Tailwind css 
 - **Hosting:** Netlify  
 
 ## 📚 Blog Categories  
